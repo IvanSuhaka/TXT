@@ -1,0 +1,4 @@
+Name: Ivan Suhaka
+Age: 23
+Pets: 0
+Desired salary: 2000$
